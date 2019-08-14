@@ -1,0 +1,22 @@
+{
+  "name": "presence",
+  "version": "0.0.1",
+  "description": "A simple community chat bot",
+  "main": "index.js",
+  "repository": "git@github.com:independent-developers/bot.git",
+  "author": "Ugo Arzur <ugo.arzur@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "NODE_ENV=production node index.js",
+    "dev": "./node_modules/.bin/nodemon NODE_ENV=dev index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
