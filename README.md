@@ -1,5 +1,5 @@
 # Community Bot
-[>> Click here to add this bot to your server <<](https://discordapp.com/oauth2/authorize?client_id=283167523782787072&scope=bot&permissions=2146958591)
+[>> Click here to add this bot to your server <<](https://discordapp.com/oauth2/authorize?client_id=611162848709705729&scope=bot&permissions=1074252993&redirect_uri=https%3A%2F%2Fdiscordapp.com)
 
 If you want to use this bot, you are gonna need to set your environment by creating a `.env` file a the root directory. Once you have done it, fill him with your credentials like so :
 ```.env
